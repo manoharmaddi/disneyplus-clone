@@ -106,9 +106,9 @@ const Nav = styled.nav`
         }
     }
 `
-    const UserImg = styled.img`
+    const UserImg =styled.img`
     width: 38px;
     height: 48px;
     border-radius: 60%;
     cursor: pointer;    
-`
+ `

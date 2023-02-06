@@ -111,4 +111,4 @@ const Nav = styled.nav`
     height: 48px;
     border-radius: 60%;
     cursor: pointer;    
-`
+ `
