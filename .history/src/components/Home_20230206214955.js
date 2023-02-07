@@ -9,7 +9,6 @@ function Home() {
     <Container>
         <ImgSlider />
         <Viewers/>
-        <Movies/>
     </Container>
   )
 }
